@@ -1,0 +1,17 @@
+# Dataset: Yield force vs compression speed (convergence toward quasi-static limit)
+#
+# Columns:
+#   (v_com/r) sqrt(m/kn) : compression speed (dimensionless)
+#   F/mg   : yield force (dimensionless)
+#
+# Note:
+#   This dataset reports the dependence of the measured yield force F on the
+#   compression speed v_com. As v_com → 0, F_y converges to a constant value
+#   (quasi-static limit).
+#
+# (v_com/r)·sqrt(m/kn)   F/mg
+0.001000 5.281358
+0.000100 4.920446
+0.000010 4.884351
+0.000001 4.880741
+0.0000001 4.880380

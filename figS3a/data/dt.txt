@@ -1,0 +1,14 @@
+# Dataset: Convergence of yield force with respect to simulation timestep
+#
+# Columns:
+#   dt   : simulation timestep 
+#   F/mg : yield force (dimensionless)
+#
+# Note:
+#   The data demonstrate that F remains nearly constant for dt ≤ 1.0e−3,
+#   indicating numerical convergence of the yield force value.
+#
+# dt         F/mg
+0.001000 5.281358
+0.000100 5.281209
+0.000010 5.281194
